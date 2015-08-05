@@ -1,0 +1,10 @@
+.classpath
+.project
+.settings/
+bin/
+gen/
+*.log
+libs/
+puntuaciones.txt
+puntuaciones.xml
+puntuacionesDOM.xml
